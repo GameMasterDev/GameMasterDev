@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a Minecraft Server**
 
-- 🤝 I’m looking for help with **AstraMC**
+- 🤝 I’m looking for help with **OmniMC**
 
 - 📫 How to reach me **msg.gamemaster@gmail.com**
 
