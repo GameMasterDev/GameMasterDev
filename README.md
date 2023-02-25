@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamemasterdev&label=Profile%20views&color=0e75b6&style=flat" alt="gamemasterdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gamehdmaster" target="blank"><img src="https://img.shields.io/twitter/follow/gamehdmaster?logo=twitter&style=for-the-badge" alt="GameHDMaster" /></a> </p>
-
 - 🔭 I’m currently working on **Minecraft Projects**
 
 - 👯 I’m looking to collaborate on **a Minecraft Server**
