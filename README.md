@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamemasterdev&label=Profile%20views&color=0e75b6&style=flat" alt="gamemasterdev" /> </p>
 
-- 🔭 I’m currently working on **Minecraft Projects**
+- 🔭 I’m currently working on **Java Projects**
 
 - 👯 I’m looking to collaborate on **a Minecraft Server**
 
-- 🤝 I’m looking for help with .......
+- 🤝 I’m looking for help with NONE
 
 - 📫 How to reach me **msg.gamemaster@gmail.com**
 
