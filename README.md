@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm GameMaster</h1>
-<h3 align="center">French Developper</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+Black&duration=3000&random=false&width=435&lines=Hi%2C;I'm+GameMaster,+French+Developper)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamemasterdev&label=Profile%20views&color=0e75b6&style=flat" alt="gamemasterdev" /> </p>
 
@@ -10,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gamehdmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamehdmaster" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gamemaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamemaster" height="30" width="40" /></a>
-<a href="https://discord.gg/GameMaster#8922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GameMaster#8922" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hdgamemaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamemaster" height="30" width="40" /></a>
+<a href="https://discord.gg/app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GameMaster#8922" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
